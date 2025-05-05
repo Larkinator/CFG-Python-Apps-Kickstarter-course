@@ -17,7 +17,7 @@ Group project submitted in December 2024 for the Code First Girls Kickstarter co
 - Visualise data using Seaborn bar plots
 - Export analysis results to Excel (one or mulitple sheets)<br>
 
-  ### Technology used:
-  - Python
-  - csv, pandas for data processing
-  - seaborn, matplotlib for visualisation
+### Technology used:
+- Python
+- csv, pandas for data processing
+- seaborn, matplotlib for visualisation
